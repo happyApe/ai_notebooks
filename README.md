@@ -1,1 +1,1 @@
-## various jupyter notebooks on deep learning neural networks
+## Various jupyter notebooks on deep learning neural networks
