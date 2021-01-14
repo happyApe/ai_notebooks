@@ -1,7 +1,7 @@
 ## Various jupyter notebooks on deep learning neural networks 
 
 ### Neural Networks - 
- - [Logistic Regression Model] (https://github.com/happyApe/ai_notebooks/blob/master/neural%20networks/Logistic%20Regression%20Cat%20Classifier.ipynb)
+ - [Logistic Regression Model](https://github.com/happyApe/ai_notebooks/blob/master/neural%20networks/Logistic%20Regression%20Cat%20Classifier.ipynb)
  - [Neural Networks from scratch](https://github.com/happyApe/ai_notebooks/blob/master/neural%20networks/Deep%20Neural%20Network.ipynb)
 
 ### Improving NNs - 
