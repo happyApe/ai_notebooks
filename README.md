@@ -17,4 +17,4 @@
  - [Neural Style Transfer Art Generation](https://github.com/happyApe/ai_notebooks/blob/master/Convolutional%20Neural%20Networks/Neural%20Style%20Transfer%20.ipynb)
  - [Yolo implementation in Tf + keras](https://github.com/happyApe/ai_notebooks/blob/master/Convolutional%20Neural%20Networks/YOLO%20with%20TF%20%26%20Keras.ipynb)
 
-
+The datasets and images are provided by deeplearning.ai specializations`
